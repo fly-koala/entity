@@ -1,0 +1,42 @@
+{
+    "name": "koala/entity",
+    "description": "Laravel 5 - entity",
+    "keywords": [
+        "laravel",
+        "entity",
+        "array",
+        "validator"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "fly-koala",
+            "email": "flykoala@aliyun.com",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "email": "contato@andersonandra.de",
+        "issues": "http://127.0.0.1:10080/fly-koala/entity/issues",
+        "wiki": "http://127.0.0.1:10080/fly-koala/entity/wiki",
+        "source": "http://127.0.0.1:10080/fly-koala/entity"
+    },
+    "require": {
+        "laravel/framework": "5.5.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Koala\\Entity\\": "src/"
+        }
+    },
+    "config": {
+        "preferred-install": "dist"
+    },
+    "suggest": {},
+    "extra": {
+        "laravel": {
+            "providers": []
+        }
+    },
+    "minimum-stability": "stable"
+}
