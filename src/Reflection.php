@@ -14,8 +14,11 @@ use ReflectionClass;
 use ReflectionProperty;
 
 /**
- * 映射关系处理
- * 将数组转为对应的entity，默认的映射关系是下划线<===>驼峰，可以在entity自定以filedMapping
+ * 映射关系处理，将数组转为对应的entity
+ *
+ * 默认的映射关系是：下划线<===>驼峰
+ * 使用mapping定义array和entity的映射关系
+ * 使用reverse定义entity和array的映射关系
  * Class Reflection
  * @package Koala\Entity
  */
