@@ -1,6 +1,6 @@
 {
     "name": "koala/entity",
-    "description": "Laravel 5 - entity",
+    "description": "Laravel 5 - entity - validator",
     "keywords": [
         "laravel",
         "entity",
@@ -16,10 +16,10 @@
         }
     ],
     "support": {
-        "email": "contato@andersonandra.de",
-        "issues": "http://127.0.0.1:10080/fly-koala/entity/issues",
-        "wiki": "http://127.0.0.1:10080/fly-koala/entity/wiki",
-        "source": "http://127.0.0.1:10080/fly-koala/entity"
+        "email": "flykoala@aliyun.com",
+        "issues": "https://github.com/fly-koala/entity/issues",
+        "wiki": "https://github.com/fly-koala/entity/wiki",
+        "source": "https://github.com/fly-koala//entity"
     },
     "require": {
         "laravel/framework": "5.5.*"

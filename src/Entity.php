@@ -17,7 +17,7 @@ use Koala\Entity\Exceptions\ValidatorException;
  * 映射entity，需要在entity中定义对应的属性
  * 格式需要符合驼峰模式，否则不能正常映射
  *
- * Class KoalaMapEntity
+ * Class Entity
  * @package Koala\Entity
  */
 class Entity extends AbstractEntity
